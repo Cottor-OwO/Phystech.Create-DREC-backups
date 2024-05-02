@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2024-05-02 22:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-04-26 22:03:37 +0000"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2024-04-26 22:03:06 +0000"
@@ -104,6 +116,12 @@
   "create:recipes/create.base/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2024-04-29 20:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-05-02 19:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-04-27 12:29:47 +0000"
@@ -170,6 +194,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-04-26 21:15:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
     },
     "done": true
   },
@@ -236,6 +266,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2024-05-02 03:01:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
     },
     "done": true
   },
@@ -360,6 +396,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-04-29 20:16:13 +0000"
@@ -396,6 +438,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-04-27 18:09:51 +0000"
@@ -429,6 +477,12 @@
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-04-26 21:53:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
     },
     "done": true
   },
@@ -546,6 +600,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2024-04-26 22:59:25 +0000"
@@ -594,6 +654,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-05-03 02:01:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-04-29 19:51:34 +0000"
@@ -636,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-04-26 21:53:42 +0000"
@@ -666,6 +738,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_light_blue_dye": "2024-04-29 18:28:22 +0000"
@@ -684,6 +762,12 @@
     },
     "done": true
   },
+  "create:long_travel": {
+    "criteria": {
+      "0": "2024-05-03 02:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-27 18:02:46 +0000"
@@ -699,6 +783,12 @@
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2024-04-29 20:53:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
     },
     "done": true
   },
@@ -780,6 +870,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-04-26 21:15:23 +0000"
@@ -807,6 +903,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-04-29 20:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-05-02 19:48:40 +0000"
     },
     "done": true
   },
@@ -867,6 +969,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-04-29 22:11:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
     },
     "done": true
   },
@@ -945,6 +1053,12 @@
   "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
     "criteria": {
       "has_milk_bottle": "2024-05-02 03:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
     },
     "done": true
   },
@@ -1110,6 +1224,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-05-03 02:01:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2024-05-02 02:54:16 +0000"
@@ -1125,6 +1245,12 @@
   "create:recipes/create.palettes/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-26 22:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
     },
     "done": true
   },
@@ -1212,6 +1338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/decorations/lightroom": {
     "criteria": {
       "has_the_recipe": "2024-05-02 02:50:31 +0000"
@@ -1290,6 +1422,12 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-05-03 01:48:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window_pane": {
     "criteria": {
       "has_ingredient": "2024-04-27 14:35:08 +0000"
@@ -1353,6 +1491,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2024-04-30 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/cooking/horror_lasagna": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-02 19:42:57 +0000"
     },
     "done": true
   },
@@ -1428,6 +1572,12 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-05-03 01:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-04-26 22:03:37 +0000"
@@ -1437,6 +1587,12 @@
   "create:recipes/create.base/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2024-04-27 13:22:02 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/conductor_vent_from_industrial_iron_block_stonecutting": {
+    "criteria": {
+      "has_industrial_iron_block": "2024-05-03 02:22:58 +0000"
     },
     "done": true
   },
@@ -1506,6 +1662,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/steel_toe_stout": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-02 22:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-26 21:16:16 +0000"
@@ -1566,6 +1734,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-04-30 00:23:19 +0000"
@@ -1614,6 +1788,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-05-03 02:01:15 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-04-27 15:36:33 +0000"
@@ -1647,6 +1827,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-04-26 21:17:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
     },
     "done": true
   },
@@ -1719,6 +1905,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-04-30 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2024-05-03 01:56:12 +0000"
     },
     "done": true
   },
@@ -1866,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-04-27 13:03:54 +0000"
@@ -1995,6 +2193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-05-02 21:46:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-04-19 00:40:54 +0000"
@@ -2022,6 +2226,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-04-27 15:36:33 +0000"
+    },
+    "done": true
+  },
+  "create:chocolate_bucket": {
+    "criteria": {
+      "0": "2024-05-02 22:02:40 +0000"
     },
     "done": true
   },
@@ -2301,6 +2511,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
     "criteria": {
       "has_dye": "2024-04-26 21:23:20 +0000",
@@ -2344,6 +2560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-05-02 22:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-04-29 19:29:43 +0000"
@@ -2368,6 +2590,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "8bm:global/triggers/8bm.adv_on": {
     "criteria": {
       "tick": "2024-04-18 19:50:23 +0000"
@@ -2383,6 +2611,12 @@
   "create:recipes/create.palettes/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-04-27 12:11:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
     },
     "done": true
   },
@@ -2413,6 +2647,12 @@
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2024-04-29 20:34:54 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/link_and_pin": {
+    "criteria": {
+      "has_item": "2024-05-03 02:22:58 +0000"
     },
     "done": true
   },
@@ -2482,6 +2722,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2024-05-02 21:33:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-29 22:55:04 +0000"
@@ -2523,7 +2769,9 @@
       "twilight_oak_planks": "2024-04-27 13:19:34 +0000",
       "twilight_oak_log": "2024-05-01 22:01:42 +0000",
       "twilight_oak_sapling": "2024-05-02 00:52:49 +0000",
+      "liveroot_block": "2024-05-02 21:31:53 +0000",
       "canopy_log": "2024-04-27 11:20:33 +0000",
+      "twilight_oak_leaves": "2024-05-03 00:54:01 +0000",
       "root": "2024-05-01 22:33:28 +0000"
     },
     "done": false
@@ -3068,6 +3316,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-05-02 23:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-04-26 21:21:18 +0000"
@@ -3164,6 +3418,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-04-26 21:21:18 +0000"
@@ -3212,6 +3472,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-05-02 22:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-04-27 14:13:59 +0000"
@@ -3225,6 +3491,12 @@
       "pasta_with_mutton_chop": "2024-04-27 17:09:14 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
@@ -3310,15 +3582,33 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-05-02 23:00:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_brick_wall": {
     "criteria": {
       "has_cut_limestone_bricks": "2024-04-27 14:22:21 +0000"
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-04-27 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
     },
     "done": true
   },
@@ -3436,9 +3726,21 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-05-02 22:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-04-27 13:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
     },
     "done": true
   },
@@ -3586,6 +3888,12 @@
     },
     "done": true
   },
+  "create:train": {
+    "criteria": {
+      "0": "2024-05-03 02:33:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2024-04-29 20:07:15 +0000"
@@ -3697,6 +4005,12 @@
   "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2024-04-27 11:21:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2024-05-02 23:06:09 +0000"
     },
     "done": true
   },
@@ -3888,6 +4202,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-04-27 01:04:33 +0000"
@@ -3924,6 +4244,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-05-02 20:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-04-29 22:11:16 +0000"
@@ -3933,6 +4259,12 @@
   "farmersdelight:main/place_organic_compost": {
     "criteria": {
       "place_organic_compost": "2024-05-02 03:17:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-05-02 22:53:47 +0000"
     },
     "done": true
   },
@@ -3953,6 +4285,12 @@
       "has_blackstone": "2024-05-01 19:46:35 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-05-03 02:01:15 +0000"
+    },
+    "done": false
   },
   "brewinandchewin:recipes/brewinandchewin/fermenting/kippers": {
     "criteria": {
@@ -4032,6 +4370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_gray_dye": "2024-05-03 02:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-04-26 21:15:47 +0000"
@@ -4041,6 +4385,12 @@
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2024-05-02 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
     },
     "done": true
   },
@@ -4059,6 +4409,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_pink_dye": "2024-05-02 02:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-05-02 19:48:40 +0000"
     },
     "done": true
   },
@@ -4089,6 +4445,12 @@
   "create:recipes/create.base/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2024-04-29 20:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
     },
     "done": true
   },
@@ -4126,6 +4488,12 @@
     "criteria": {
       "0": "2024-04-27 13:56:43 +0000",
       "1": "2024-04-29 19:51:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
     },
     "done": true
   },
@@ -4243,6 +4611,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "scale": "2024-05-02 20:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-26 21:16:16 +0000"
@@ -4306,6 +4680,12 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-04-27 13:35:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
     },
     "done": true
   },
@@ -4489,6 +4869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-29 22:55:04 +0000"
@@ -4537,9 +4923,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-05-02 19:49:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-04-27 13:21:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2024-05-02 21:19:05 +0000"
     },
     "done": true
   },
@@ -4735,6 +5133,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-04-26 21:13:57 +0000"
@@ -4795,6 +5199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-05-02 21:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-04-26 22:55:16 +0000"
@@ -4822,6 +5232,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-05-02 00:52:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
     },
     "done": true
   },
@@ -4894,6 +5310,12 @@
   "create:recipes/create.palettes/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-04-30 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
     },
     "done": true
   },
@@ -5083,6 +5505,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-05-02 19:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-04-29 18:19:35 +0000",
@@ -5093,9 +5521,11 @@
       "minecraft:creeper": "2024-04-27 11:06:54 +0000",
       "minecraft:phantom": "2024-04-27 11:05:37 +0000",
       "minecraft:wither_skeleton": "2024-04-29 21:22:10 +0000",
+      "minecraft:piglin": "2024-05-03 02:47:59 +0000",
       "minecraft:enderman": "2024-04-26 21:31:22 +0000",
       "minecraft:silverfish": "2024-04-27 11:39:05 +0000",
-      "minecraft:zombie": "2024-04-26 21:33:48 +0000"
+      "minecraft:zombie": "2024-04-26 21:33:48 +0000",
+      "minecraft:zombie_villager": "2024-05-02 23:23:27 +0000"
     },
     "done": false
   },
@@ -5225,6 +5655,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2024-05-03 02:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-04-27 13:03:54 +0000"
@@ -5258,6 +5700,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-04-26 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
     },
     "done": true
   },
@@ -5417,6 +5865,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2024-05-03 01:48:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-04-26 21:53:42 +0000"
@@ -5567,6 +6021,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-04-27 13:15:46 +0000"
@@ -5657,6 +6117,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-04-26 22:03:37 +0000"
@@ -5738,6 +6204,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-04-26 21:18:22 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-05-03 00:41:48 +0000"
     },
     "done": true
   },
@@ -5903,6 +6375,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2024-05-03 01:47:34 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-04-18 19:50:23 +0000"
@@ -6005,6 +6483,12 @@
     },
     "done": false
   },
+  "create:recipes/create.palettes/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_brick_stairs": {
     "criteria": {
       "has_cut_crimsite_bricks": "2024-04-27 14:54:22 +0000"
@@ -6056,6 +6540,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-04-26 22:59:25 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/small_buffer": {
+    "criteria": {
+      "has_item": "2024-05-03 02:22:58 +0000"
     },
     "done": true
   },
@@ -6113,6 +6603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-05-02 20:59:03 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/jukeboxcart": {
     "criteria": {
       "hasitem": "2024-04-30 00:16:04 +0000"
@@ -6145,9 +6641,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
     "criteria": {
-      "has_dye": "2024-04-26 21:23:20 +0000"
+      "has_dye": "2024-04-26 21:23:20 +0000",
+      "has_block": "2024-05-02 22:22:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.base/crafting/kinetics/cogwheel": {
     "criteria": {
@@ -6323,6 +6820,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-05-02 21:46:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2024-04-29 20:00:26 +0000"
@@ -6416,6 +6925,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-04-27 13:43:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-05-03 02:01:15 +0000"
     },
     "done": true
   },
@@ -6617,6 +7132,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/cooking/scarlet_pierogies": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-02 19:42:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2024-04-27 13:19:34 +0000"
@@ -6743,6 +7264,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-04-26 23:12:01 +0000"
@@ -6804,6 +7331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-04-27 13:22:02 +0000"
@@ -6837,6 +7370,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2024-05-01 21:37:04 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/cooking/fiery_fondue_pot": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-02 19:42:06 +0000"
     },
     "done": true
   },
@@ -6903,6 +7442,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-05-01 19:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-05-02 22:09:59 +0000"
     },
     "done": true
   },
@@ -7020,6 +7565,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-05-02 23:13:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-04-27 13:22:02 +0000"
@@ -7041,6 +7592,12 @@
   "create:recipes/create.base/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2024-04-27 13:33:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-05-02 20:45:02 +0000"
     },
     "done": true
   },
@@ -7122,9 +7679,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-04-26 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
     },
     "done": true
   },
@@ -7173,6 +7742,18 @@
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2024-04-26 21:16:02 +0000"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2024-05-03 01:51:31 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/cocoa_fudge": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-02 21:46:45 +0000"
     },
     "done": true
   },
@@ -7248,9 +7829,21 @@
     },
     "done": true
   },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2024-05-02 22:36:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2024-04-29 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
     },
     "done": true
   },
@@ -7410,6 +8003,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-05-03 00:41:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-04-27 13:32:18 +0000"
@@ -7511,10 +8110,12 @@
       "onion": "2024-04-27 11:53:14 +0000",
       "tomato": "2024-04-26 23:58:07 +0000",
       "beetroot": "2024-04-29 20:10:59 +0000",
+      "cocoa": "2024-05-02 21:47:49 +0000",
       "sugar_cane": "2024-04-30 02:34:48 +0000",
       "potato": "2024-04-26 23:58:59 +0000",
       "nether_wart": "2024-04-29 21:42:23 +0000",
       "wheat": "2024-04-26 23:58:49 +0000",
+      "melon": "2024-05-02 19:31:28 +0000",
       "pumpkin": "2024-05-02 02:35:01 +0000",
       "carrot": "2024-04-26 23:58:38 +0000"
     },
@@ -7535,6 +8136,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-04-26 21:53:42 +0000"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2024-05-02 23:11:03 +0000"
     },
     "done": true
   },
@@ -7778,6 +8385,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-04-26 21:18:22 +0000"
@@ -7817,6 +8430,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-05-01 19:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2024-05-03 01:56:12 +0000"
     },
     "done": true
   },
@@ -7865,6 +8484,18 @@
   "create:recipes/create.palettes/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
       "has_rose_quartz": "2024-04-29 20:52:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-05-03 02:13:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window_pane": {
+    "criteria": {
+      "has_ingredient": "2024-05-03 02:16:56 +0000"
     },
     "done": true
   },
@@ -7940,9 +8571,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
+    },
+    "done": true
+  },
   "chalk:recipes/tools/chalk_from_purple_dye": {
     "criteria": {
       "has_calcite": "2024-04-30 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
     },
     "done": true
   },
@@ -8036,6 +8679,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-05-02 19:48:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato": {
     "criteria": {
       "has_tomato_crate": "2024-04-27 15:45:39 +0000"
@@ -8060,9 +8709,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2024-05-02 21:33:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-26 22:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2024-05-03 02:14:20 +0000"
     },
     "done": true
   },
@@ -8177,6 +8838,12 @@
   "cgm:recipes/cgm/pistol": {
     "criteria": {
       "has_iron_ingot": "2024-04-26 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-02 22:22:21 +0000"
     },
     "done": true
   },
@@ -8324,6 +8991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-02 20:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-04-27 00:40:29 +0000"
@@ -8414,6 +9087,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "trophy": "2024-05-03 02:01:15 +0000",
+      "kill_naga": "2024-05-02 20:46:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2024-04-27 11:45:30 +0000"
@@ -8453,6 +9133,12 @@
   "create:recipes/create.base/crafting/materials/zinc_ingot_from_compacting": {
     "criteria": {
       "has_item": "2024-04-30 00:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2024-05-03 01:51:36 +0000"
     },
     "done": true
   },

@@ -1607,8 +1607,15 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2024-04-29 18:58:06 +0000",
+      "stripped_twilight_oak_log": "2024-05-02 20:34:08 +0000",
       "twilight_oak_log": "2024-04-29 19:17:31 +0000",
-      "twilight_oak_wood": "2024-04-29 18:53:21 +0000"
+      "twilight_oak_wood": "2024-04-29 18:53:21 +0000",
+      "liveroot": "2024-05-02 21:37:32 +0000",
+      "twilight_oak_sapling": "2024-05-02 20:35:12 +0000",
+      "twilight_oak_stairs": "2024-05-02 20:36:27 +0000",
+      "twilight_oak_trapdoor": "2024-05-02 23:15:28 +0000",
+      "canopy_planks": "2024-05-02 20:56:58 +0000",
+      "canopy_log": "2024-05-02 20:56:48 +0000"
     },
     "done": false
   },
@@ -2300,6 +2307,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-05-03 01:09:23 +0000"
     },
     "done": true
   },
@@ -3387,6 +3400,7 @@
       "minecraft:silverfish": "2024-04-27 11:50:53 +0000",
       "minecraft:enderman": "2024-04-27 15:06:19 +0000",
       "minecraft:zombie": "2024-04-27 12:00:09 +0000",
+      "minecraft:drowned": "2024-05-02 22:36:42 +0000",
       "minecraft:zombie_villager": "2024-04-27 14:29:18 +0000"
     },
     "done": false
@@ -4669,6 +4683,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-05-02 22:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:06 +0000"
@@ -4708,6 +4728,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2024-04-29 18:25:07 +0000",
+      "brown_mushroom": "2024-05-02 22:19:59 +0000",
       "nether_wart": "2024-04-29 21:43:10 +0000",
       "wheat": "2024-04-29 18:23:55 +0000"
     },
@@ -6127,6 +6148,12 @@
   "create:recipes/create.palettes/small_ochrum_brick_slab_recycling": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:04 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-05-03 01:03:14 +0000"
     },
     "done": true
   },
@@ -7675,6 +7702,12 @@
   "twilightforest:progress_naga": {
     "criteria": {
       "scale": "2024-04-30 02:30:54 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-05-03 00:39:08 +0000"
     },
     "done": true
   },
@@ -9598,6 +9631,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-05-03 00:51:07 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/orange_locometal_boiler": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
@@ -10834,6 +10873,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "bighorn_sheep": "2024-05-02 19:19:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-04-26 22:33:51 +0000"
@@ -11452,6 +11497,12 @@
     },
     "done": true
   },
+  "create:chocolate_bucket": {
+    "criteria": {
+      "0": "2024-05-02 23:28:07 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/yellow_locometal_smokebox": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
@@ -11852,6 +11903,12 @@
   "farmersdelight:recipes/farmersdelight/tomato_seeds": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:06 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-05-03 00:34:25 +0000"
     },
     "done": true
   },
@@ -12665,6 +12722,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-05-02 19:36:45 +0000"
+    },
+    "done": false
+  },
   "railways:recipes/railways/crafting/smokestack_woodburner": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:06 +0000"
@@ -12938,6 +13001,12 @@
   "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/magenta_plated_locometal": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-05-03 00:42:13 +0000"
     },
     "done": true
   },
@@ -15617,6 +15686,12 @@
     },
     "done": true
   },
+  "create:long_travel": {
+    "criteria": {
+      "0": "2024-05-03 02:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
@@ -17131,6 +17206,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "ratatouille": "2024-05-02 21:31:08 +0000",
+      "roast_chicken": "2024-05-02 20:59:52 +0000",
       "pasta_with_mutton_chop": "2024-04-29 18:38:20 +0000"
     },
     "done": false
@@ -18871,9 +18948,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2024-05-02 22:52:57 +0000",
+      "minecraft:deep_ocean": "2024-05-02 22:55:51 +0000",
       "minecraft:sunflower_plains": "2024-04-27 12:12:30 +0000",
       "minecraft:beach": "2024-04-26 23:26:04 +0000",
       "minecraft:river": "2024-04-27 12:12:18 +0000",
+      "minecraft:cold_ocean": "2024-05-02 22:37:45 +0000",
+      "minecraft:forest": "2024-05-02 22:38:03 +0000",
+      "minecraft:deep_cold_ocean": "2024-05-02 21:43:58 +0000",
       "minecraft:ocean": "2024-04-26 23:27:09 +0000",
       "minecraft:flower_forest": "2024-04-27 12:10:26 +0000",
       "minecraft:savanna": "2024-04-27 14:27:01 +0000",
@@ -19297,7 +19379,8 @@
       "apple": "2024-04-27 13:20:46 +0000",
       "bread": "2024-04-27 18:57:45 +0000",
       "golden_carrot": "2024-04-27 13:21:06 +0000",
-      "cooked_chicken": "2024-04-27 18:05:07 +0000"
+      "cooked_chicken": "2024-04-27 18:05:07 +0000",
+      "mushroom_stew": "2024-05-02 22:58:52 +0000"
     },
     "done": false
   },
@@ -20342,6 +20425,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2024-05-02 21:30:13 +0000"
     },
     "done": true
   },
