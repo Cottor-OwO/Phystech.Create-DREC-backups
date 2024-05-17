@@ -5539,6 +5539,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-05-17 19:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
@@ -8146,6 +8152,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:gone_with_the_foil": {
+    "criteria": {
+      "builtin": "2024-05-17 19:49:13 +0000"
     },
     "done": true
   },
@@ -10999,6 +11011,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-05-17 19:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
@@ -12724,9 +12742,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2024-05-17 19:51:40 +0000",
       "1": "2024-05-02 19:36:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "railways:recipes/railways/crafting/smokestack_woodburner": {
     "criteria": {
@@ -13520,6 +13539,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2024-05-17 19:49:13 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/pink_locometal_boiler": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:06 +0000"
@@ -13625,6 +13650,12 @@
   "create:recipes/create.palettes/cut_ochrum_slab_recycling": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-05-17 19:43:04 +0000"
     },
     "done": true
   },
@@ -18700,6 +18731,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-05-17 19:17:41 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways_palettes/stonecutting/palettes/cycling/white_locometal_smokebox": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:06 +0000"
@@ -19471,6 +19508,12 @@
   "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/cyan_flat_slashed_locometal": {
     "criteria": {
       "has_the_recipe": "2024-04-27 15:33:05 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-05-17 19:38:13 +0000"
     },
     "done": true
   },
