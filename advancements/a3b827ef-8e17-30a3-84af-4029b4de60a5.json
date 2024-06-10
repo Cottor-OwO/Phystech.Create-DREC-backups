@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2024-06-01 23:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-04-26 21:16:16 +0000"
@@ -551,6 +557,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-06-06 11:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-04-29 20:33:41 +0000"
@@ -677,6 +689,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2024-06-06 21:32:05 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/mini_gun": {
     "criteria": {
       "has_iron_ingot": "2024-04-26 22:03:37 +0000"
@@ -704,6 +722,12 @@
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2024-04-27 13:22:02 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/mead": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-01 20:32:54 +0000"
     },
     "done": true
   },
@@ -770,6 +794,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2024-04-29 18:53:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2024-06-06 21:32:05 +0000"
     },
     "done": true
   },
@@ -896,6 +926,12 @@
   "create:recipes/create.palettes/exposed_copper_shingle_stairs_from_exposed_copper_shingles_stonecutting": {
     "criteria": {
       "has_exposed_copper_shingles": "2024-05-28 01:37:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-06-01 21:55:44 +0000"
     },
     "done": true
   },
@@ -1449,6 +1485,18 @@
     },
     "done": true
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2024-06-01 23:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-06-02 06:17:56 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/advanced_bullet": {
     "criteria": {
       "has_copper_ingot": "2024-04-26 22:03:06 +0000"
@@ -1488,6 +1536,12 @@
   "create:self_deploying": {
     "criteria": {
       "0": "2024-04-30 02:00:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_from_stripped_wood_planks": {
+    "criteria": {
+      "has_item": "2024-06-01 18:01:26 +0000"
     },
     "done": true
   },
@@ -1644,6 +1698,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "mangrove_root": "2024-06-01 16:08:20 +0000",
       "dark_button": "2024-05-29 06:38:46 +0000",
       "twilight_oak_planks": "2024-04-27 13:19:34 +0000",
       "stripped_twilight_oak_log": "2024-05-23 22:56:03 +0000",
@@ -1652,16 +1707,23 @@
       "dark_log": "2024-05-28 02:34:42 +0000",
       "twilight_oak_sapling": "2024-05-02 00:52:49 +0000",
       "liveroot": "2024-05-28 22:07:22 +0000",
+      "dark_door": "2024-06-01 22:25:18 +0000",
       "twilight_oak_stairs": "2024-05-23 23:05:03 +0000",
       "dark_planks": "2024-05-29 06:38:42 +0000",
+      "stripped_twilight_oak_wood": "2024-06-01 18:01:26 +0000",
       "darkwood_sapling": "2024-05-28 02:34:43 +0000",
+      "stripped_dark_log": "2024-06-01 18:00:05 +0000",
+      "twilight_oak_slab": "2024-06-02 01:45:03 +0000",
       "liveroot_block": "2024-05-02 21:31:53 +0000",
+      "root_strand": "2024-06-01 16:27:39 +0000",
       "canopy_log": "2024-04-27 11:20:33 +0000",
       "twilight_oak_leaves": "2024-05-03 00:54:01 +0000",
       "mining_log": "2024-05-29 11:12:31 +0000",
+      "dark_stairs": "2024-06-01 21:58:32 +0000",
       "root": "2024-05-01 22:33:28 +0000",
       "time_log": "2024-05-29 11:43:24 +0000",
-      "time_wood": "2024-05-29 11:43:22 +0000"
+      "time_wood": "2024-05-29 11:43:22 +0000",
+      "dark_slab": "2024-06-01 23:38:02 +0000"
     },
     "done": false
   },
@@ -2103,6 +2165,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_horizontal_framed_glass": {
+    "criteria": {
+      "has_item": "2024-06-06 12:06:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-27 15:17:58 +0000"
@@ -2124,6 +2192,12 @@
   "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2024-05-29 12:00:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/darkwood_stripped_wood": {
+    "criteria": {
+      "has_item": "2024-06-01 18:00:05 +0000"
     },
     "done": true
   },
@@ -2452,6 +2526,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_meef": "2024-06-06 21:28:13 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-04-26 21:16:26 +0000"
@@ -2535,6 +2615,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-04-26 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-06-01 16:25:40 +0000"
     },
     "done": true
   },
@@ -2772,6 +2858,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/root_stick": {
+    "criteria": {
+      "has_item": "2024-06-01 16:27:39 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2024-04-27 13:56:43 +0000",
@@ -2860,6 +2952,12 @@
   "create:super_glue": {
     "criteria": {
       "0": "2024-04-30 00:40:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-06-06 11:57:11 +0000"
     },
     "done": true
   },
@@ -3103,6 +3201,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-06-02 08:36:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-04-27 13:22:02 +0000"
@@ -3214,6 +3318,12 @@
   "create:recipes/create.palettes/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-29 22:55:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2024-06-01 16:25:40 +0000"
     },
     "done": true
   },
@@ -3404,6 +3514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-06-02 06:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-04-26 21:16:03 +0000"
@@ -3455,6 +3571,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2024-04-27 13:33:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-06-06 12:06:03 +0000"
     },
     "done": true
   },
@@ -3641,6 +3763,12 @@
   "create_enchantment_industry:experimental": {
     "criteria": {
       "builtin": "2024-04-29 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-06-02 08:24:01 +0000"
     },
     "done": true
   },
@@ -3992,6 +4120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-06-01 20:32:54 +0000"
+    },
+    "done": true
+  },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
     "criteria": {
       "has_dye": "2024-04-26 21:23:20 +0000",
@@ -4239,6 +4373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-06-01 20:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-05-23 17:26:36 +0000"
@@ -4278,6 +4418,12 @@
   "twilightforest:recipes/twilightforest/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2024-04-27 13:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-06-02 06:17:56 +0000"
     },
     "done": true
   },
@@ -4677,6 +4823,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2024-06-01 20:32:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-04-26 21:53:17 +0000"
@@ -4740,6 +4892,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-27 18:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-06-01 18:40:24 +0000"
     },
     "done": true
   },
@@ -4827,6 +4985,7 @@
       "brown_mushroom": "2024-05-27 20:06:48 +0000",
       "sugar_cane": "2024-04-30 02:34:48 +0000",
       "potato": "2024-04-26 23:58:59 +0000",
+      "red_mushroom": "2024-06-01 18:15:11 +0000",
       "nether_wart": "2024-04-29 21:42:23 +0000",
       "wheat": "2024-04-26 23:58:49 +0000",
       "melon": "2024-05-02 19:31:28 +0000",
@@ -5261,6 +5420,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-06-02 08:36:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/onion_crate": {
     "criteria": {
       "has_onion": "2024-04-26 21:15:00 +0000"
@@ -5677,6 +5842,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-06-02 08:25:12 +0000"
+    },
+    "done": true
+  },
   "alloyed:recipes/alloyed.main_group/smithing/steel_shears": {
     "criteria": {
       "has_ingredient": "2024-05-01 20:50:42 +0000"
@@ -5704,6 +5875,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-04-26 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ore_map": {
+    "criteria": {
+      "ore_map": "2024-06-02 04:23:40 +0000"
     },
     "done": true
   },
@@ -6076,6 +6253,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-04-26 21:15:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2024-06-06 17:19:50 +0000"
     },
     "done": true
   },
@@ -6997,6 +7180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2024-06-02 03:35:08 +0000"
+    },
+    "done": true
+  },
   "8bm:global/triggers/8bm.adv_on": {
     "criteria": {
       "tick": "2024-04-18 19:50:23 +0000"
@@ -7502,11 +7691,18 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-06-01 17:11:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "shepherds_pie": "2024-04-26 23:28:10 +0000",
       "ratatouille": "2024-05-23 13:41:24 +0000",
       "mixed_salad": "2024-05-23 13:45:34 +0000",
+      "squid_ink_pasta": "2024-06-01 20:36:17 +0000",
       "pasta_with_meatballs": "2024-05-27 21:32:53 +0000",
       "mushroom_rice": "2024-05-23 19:21:17 +0000",
       "vegetable_noodles": "2024-05-24 00:35:48 +0000",
@@ -7602,6 +7798,12 @@
   "alloyed:recipes/alloyed.main_group/crafting/locked_steel_door": {
     "criteria": {
       "has_ingredient": "2024-05-01 21:04:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-06-01 20:32:54 +0000"
     },
     "done": true
   },
@@ -7755,6 +7957,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_banister": {
+    "criteria": {
+      "has_item": "2024-06-02 01:45:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2024-04-27 11:21:59 +0000"
@@ -7848,6 +8056,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-04-26 21:53:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/waterlily_to_magenta": {
+    "criteria": {
+      "has_item": "2024-06-01 16:51:19 +0000"
     },
     "done": true
   },
@@ -7975,6 +8189,12 @@
   "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-26 22:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-06-06 14:18:06 +0000"
     },
     "done": true
   },
@@ -8314,6 +8534,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/darkwood_from_stripped_planks": {
+    "criteria": {
+      "has_item": "2024-06-01 18:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-04-26 21:17:51 +0000"
@@ -8347,6 +8573,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-04-27 18:09:51 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "builtin": "2024-06-02 03:54:26 +0000"
     },
     "done": true
   },
@@ -8545,6 +8777,12 @@
   "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-26 22:09:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/darkwood_banister": {
+    "criteria": {
+      "has_item": "2024-06-01 23:38:02 +0000"
     },
     "done": true
   },
@@ -8845,6 +9083,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-04-30 00:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-06-01 18:15:05 +0000"
     },
     "done": true
   },
@@ -9415,6 +9659,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2024-06-06 17:19:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-04-26 21:53:10 +0000"
@@ -9460,6 +9710,12 @@
   "twilightforest:recipes/twilightforest/material/blasted_ironwood_ingot": {
     "criteria": {
       "has_item": "2024-05-01 20:48:37 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-06-06 12:02:24 +0000"
     },
     "done": true
   },
@@ -9718,13 +9974,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-04-27 12:02:37 +0000",
+      "honey_bottle": "2024-06-02 00:53:24 +0000",
       "cooked_mutton": "2024-04-26 22:00:01 +0000",
       "sweet_berries": "2024-05-27 19:42:22 +0000",
       "cooked_beef": "2024-04-26 21:37:53 +0000",
+      "baked_potato": "2024-06-02 03:57:22 +0000",
       "apple": "2024-04-26 21:14:01 +0000",
       "potato": "2024-05-23 17:37:37 +0000",
       "cooked_cod": "2024-05-01 22:57:48 +0000",
       "bread": "2024-04-26 21:33:57 +0000",
+      "golden_apple": "2024-06-02 01:16:58 +0000",
+      "cookie": "2024-06-06 16:49:02 +0000",
       "glow_berries": "2024-05-24 03:47:22 +0000",
       "golden_carrot": "2024-04-27 14:54:08 +0000",
       "cooked_chicken": "2024-04-27 18:08:47 +0000"
@@ -9992,6 +10252,12 @@
   "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
     "criteria": {
       "has_weathered_cut_copper": "2024-05-28 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2024-06-06 17:19:50 +0000"
     },
     "done": true
   },
@@ -10271,6 +10537,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2024-06-06 17:19:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-05-01 22:15:41 +0000"
@@ -10382,6 +10654,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-04-26 21:53:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2024-06-06 21:37:10 +0000"
     },
     "done": true
   },
@@ -10538,6 +10816,12 @@
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2024-05-23 14:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-06-06 14:18:06 +0000"
     },
     "done": true
   },
@@ -10874,6 +11158,12 @@
   "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-05-24 04:05:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-06-01 16:25:40 +0000"
     },
     "done": true
   },
